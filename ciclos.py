@@ -1,4 +1,5 @@
-print('La edad de la persona es: ' + str(edad))
+import math
+
 
 for i in range(2):
     print('ciclo # ' + str(i))
